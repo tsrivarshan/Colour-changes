@@ -19,12 +19,12 @@
   <table border="2" align="center" width="50"> 
    <tbody> 
     <tr> 
-     <th id="G" style="font-size:40px" align="center" colspan="3"> HELLO! &#128591 JAVASCRIPT </th> 
+     <th id="G" style="font-size:40px" align="center" colspan="3"> HELLO!JAVASCRIPT </th> 
     </tr> 
     <tr> 
-     <td text align="center"><button type="button" onclick="myfun1();">Mr.Red&#128545</button></td> 
-     <td text align="center"><button type="button" onclick="myfun2();"> Mr.Yellow&#128512</button></td> 
-     <td text align="center"><button type="button" onclick="myfun3();"> Mr.Violet&#128127</button></td> 
+     <td text align="center"><button type="button" onclick="myfun1();">Mr.Red</button></td> 
+     <td text align="center"><button type="button" onclick="myfun2();"> Mr.Yellow</button></td> 
+     <td text align="center"><button type="button" onclick="myfun3();"> Mr.Violet</button></td> 
     </tr> 
    </tbody> 
   </table> 
